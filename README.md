@@ -1,4 +1,4 @@
-#BizTalk Port Info Query Tool
+# BizTalk Port Info Query Tool
 
 Every now and then you start at a new customer to maintain or extend their BizTalk applications or you have to take over the BizTalk applications of someone else.It is not very easy to get acquainted with large numbers of applications and their receive and send ports.
 
